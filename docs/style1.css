@@ -5,6 +5,13 @@
 	padding: auto;
 }
 
+/* Image Styles */
+
+.corporationlogo{
+	height: auto;
+	width: auto;
+}
+
 /* Navigation Styles */
 
 .navbar-text{
